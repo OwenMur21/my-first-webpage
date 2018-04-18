@@ -16,3 +16,9 @@ ul {
 body{
   background-color:#BED3D5;
 }
+strong{
+  font-style: italic;
+}
+em{
+  font-style: oblique;
+}
